@@ -1,6 +1,6 @@
 ## A companion computer and external nav sensor emulator
 
-**Ensure you are using the correct MAVLink repo for both Ardupilot and MAVProxy**
+**Ensure you are using the correct MAVLink repo for both Ardupilot and MAVProxy:** https://github.com/SamuelDudley/mavlink/tree/slam 
 
   - Launch ArduPilot SITL (ArduPlane):
   ``-S -I0 --home -30.93484,136.54492,138,0 --model jsbsim –speedup=1``
